@@ -1,0 +1,13 @@
+{
+  "channel": "testflight",
+  "content_compatibility": 2,
+  "content_version": 1,
+  "max_app_build": 7,
+  "min_app_build": 7,
+  "payload": {
+    "bytes": 1767,
+    "sha256": "1dee582c56759aedc8d08bac11e1862e6cdd31eba740c67e1ba523eedfb8e0f5",
+    "url": "https://raw.githubusercontent.com/PrismaticHub/duette-arcade-content/main/testflight/presentation-7/content-v1-1dee582c5675.json"
+  },
+  "schema_version": 1
+}

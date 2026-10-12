@@ -1,0 +1,50 @@
+{
+  "balances": {},
+  "catalogs": {},
+  "content_version": 1,
+  "presentation": {
+    "settings": {
+      "accent": "d3c2e9",
+      "background": "fff8f0",
+      "body_font_size": 32,
+      "card_radius": 24,
+      "control_height": 92,
+      "copy": {
+        "about_title": "About Arcade",
+        "check_updates_title": "Check for updates",
+        "display_title": "Comfort",
+        "done_label": "Back to room",
+        "local_saves_description": "Your room, outfits, coins and progress are saved locally for offline play. Linked partners also share their room and progress through Duette Arcade.",
+        "reduce_motion_description": "Use calmer camera and screen transitions.",
+        "reduce_motion_title": "Reduce motion",
+        "reset_view_description": "Return to the full-room overview.",
+        "reset_view_title": "Reset room view",
+        "room_title": "Your room",
+        "touch_guide": "Tap the floor to walk or a cabinet to play. Pinch to zoom, then drag one finger to look around. In Decorate, hold and drag furniture, then release to save; use two fingers to move the view.",
+        "touch_guide_title": "Touch controls",
+        "updates_description": "Content updates download in the background and appear after you fully close and reopen the app.",
+        "updates_title": "Updates"
+      },
+      "section_order": [
+        "display",
+        "room",
+        "updates",
+        "about"
+      ],
+      "sections_visible": {
+        "about": true,
+        "display": true,
+        "room": true,
+        "updates": true
+      },
+      "title": "Settings"
+    },
+    "startup": {
+      "animation_enabled": true,
+      "fade_seconds": 0.5,
+      "heartbeat_enabled": true,
+      "minimum_seconds": 0.0
+    }
+  },
+  "schema_version": 1
+}
